@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/d1000so/d1000so/blob/main/fundo.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/d1000so/d1000so/blob/main/fundo.png">
 
 <h1>
     <!--<a href="https://elidianaandrade.github.io/">
