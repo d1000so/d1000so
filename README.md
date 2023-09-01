@@ -1,8 +1,8 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="C:\Users\edmil\Downloads\fundo.gif">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/d1000so/d1000so/blob/main/fundo.png">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="" width="36px" src="C:\Users\edmil\Documents\MAPA\Design\img\Untitled.bmp"></a>
+    <!--<a href="https://elidianaandrade.github.io/">
+     <img align="center" alt="" width="36px" src="C:\Users\edmil\Documents\MAPA\Design\img\Untitled.bmp"></a>-->
     <span>Edmilson Braga</span>
 </h1>
 
@@ -16,7 +16,8 @@
 <h3 align="left">Skills</h3>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=blue)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&bg_color=000&border_color=444444&title_color=30AADC&text_color=FFF)
