@@ -6,7 +6,7 @@
     <span>Edmilson Braga</span>
 </h1>
 
-<p align="justify">I'm a student of Systems Analysis and Development, living in Campinas-SP, Brazil. My first contact with programming was through Arduino automation. I chose Python as my first language, but I'm open to learning and exploring new opportunities. I enjoy IOT, home automation, and PC gaming. 
+<p align="justify">"I'm a student studying Systems Analysis and Development, living in Campinas-SP, Brazil. My first dive into programming happened with Arduino automation. I went with Python as my first coding buddy, but I'm totally down to explore new stuff. I'm into IOT, home automation, and love me some PC gaming." 
 <br>
  
 <h3 align="left">Connect with me</h3>
