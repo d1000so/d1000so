@@ -15,9 +15,10 @@
 
 <h3 align="left">Skills</h3>
 
-![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=blue&label=%20&style=plastic)
+![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic)
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=1182c3&logoColor=red&label=%20&style=plastic)
 ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![sqlite](https://img.shields.io/static/v1?message=SQLite&logo=SQLite&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Postgre](https://img.shields.io/static/v1?message=PostegreSQL&logo=postgresql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&bg_color=000&border_color=444444&title_color=30AADC&text_color=FFF)
