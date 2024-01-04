@@ -19,11 +19,34 @@
 ![Java](https://img.shields.io/static/v1?message=JAVA&logo=openJDK&labelColor=5c5c5c&color=1182c3&logoColor=orange&label=%20&style=plastic)
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=1182c3&logoColor=red&label=%20&style=plastic)
 ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![sqlite](https://img.shields.io/static/v1?message=SQLite&logo=SQLite&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Postgre](https://img.shields.io/static/v1?message=PostegreSQL&logo=postgresql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&bg_color=000&border_color=444444&title_color=30AADC&text_color=FFF)
+
+<h3 align="left">Courses</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+    </td>
+    <td align="center">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+    </td>
+    <td align="center">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <h3 align="left">GitHub Stats</h3>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&bg_color=000&border_color=444444&title_color=30AADC&text_color=FFF)
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=30AADC&text_color=FFF&border_radius=3&border_color=444444&icon_color=30AADC&theme=jolly)
