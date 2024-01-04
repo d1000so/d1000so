@@ -31,10 +31,10 @@
       <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 1">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/java.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/c.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/c.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/java.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
       <img src="https://github.com/d1000so/trilha-python-dio/blob/main/back.png" width="140" alt="Python Developer Image 2">
