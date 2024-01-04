@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/d1000so/d1000so/blob/main/fundo.png">
 
 <h1>
-    <!--<a href="https://elidianaandrade.github.io/">
+    <!--<a href="https://web.dio.me/home">
      <img align="center" alt="" width="36px" src="C:\Users\edmil\Documents\MAPA\Design\img\Untitled.bmp"></a>-->
     <span>Edmilson Braga</span>
 </h1>
@@ -25,6 +25,7 @@
 <br>
 
 <h3 align="left">DIO's Courses</h3>
+
 <table>
   <tr>
     <td align="center">
