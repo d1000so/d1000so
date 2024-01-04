@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)](https://www.linkedin.com/in/edmilson-braga-9b19aa255/)
+<br>
 
 <h3 align="left">Skills</h3>
 
@@ -21,7 +22,7 @@
 ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Postgre](https://img.shields.io/static/v1?message=PostegreSQL&logo=postgresql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-
+<br>
 
 <h3 align="left">DIO's Courses</h3>
 <table>
@@ -30,23 +31,20 @@
       <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 1">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/java.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/c.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/back.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/sql.png" width="140" alt="Python Developer Image 2">
     </td>
   </tr>
 </table>
-
-
-
-
+<br>
 
 <h3 align="left">GitHub Stats</h3>
 
