@@ -23,20 +23,23 @@
 ![Postgre](https://img.shields.io/static/v1?message=PostegreSQL&logo=postgresql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
 
-<h3 align="left">Courses</h3>
+<h3 align="left">DIO's Courses</h3>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 1">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 1">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
     </td>
     <td align="center">
-      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="155" alt="Python Developer Image 2">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
+    </td>
+    <td align="center">
+      <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 2">
     </td>
   </tr>
 </table>
