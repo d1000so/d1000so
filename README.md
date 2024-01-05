@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic" width="140">
+        <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
       </td>
       <td>
           <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=F7DF1E&logoColor=black&label=%20&style=plastic" width="140">
@@ -71,6 +71,6 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&bg_color=000&border_color=444444&title_color=30AADC&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&border_color=444444&title_color=30AADC&text_color=FFF)
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=30AADC&text_color=FFF&border_radius=3&border_color=444444&icon_color=30AADC&theme=jolly)
