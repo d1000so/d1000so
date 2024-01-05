@@ -40,19 +40,29 @@
     <table>
       <tr>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/python.png" width="140">
+					<a href="https://web.dio.me/track/04e5f7bf-e6a2-49f5-8f53-8de2237cae18">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/python.png" width="140">
+					</a>
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140">
+					<a href="https://web.dio.me/track/d18ec220-f4f3-49db-b01b-50b698e4da5d">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140">
+					</a>
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/java.png" width="140">
+					<a href="https://web.dio.me/track/santander-bootcamp-2023-backend-java">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/java.png" width="140">
+					</a>
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140">
+					<a href="https://web.dio.me/track/81c4cf08-5cef-43f6-a579-1e0158bd9da6">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140">
+					</a>
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/sql.png" width="140">
+					<a href="https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/sql.png" width="140">
+					</a>
         </td>
       </tr>
     </table>
