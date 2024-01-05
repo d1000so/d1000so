@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/d1000so/d1000so/blob/main/fundo.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/d1000so/d1000so/blob/main/fundo-git.png">
 <h1>
 	<span>Edmilson Braga</span>
 </h1>
@@ -50,19 +50,19 @@
     <table>
       <tr>
         <td align="center">
-          <img src="https://github.com/d1000so/trilha-python-dio/blob/main/python-developer.png" width="140" alt="Python Developer Image 1">
+          <img src="https://github.com/d1000so/d1000so/blob/main/python.png" width="140" alt="Python Developer Image 1">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/trilha-python-dio/blob/main/c.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140" alt="Python Developer Image 2">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/trilha-python-dio/blob/main/java.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/java.png" width="140" alt="Python Developer Image 2">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/trilha-python-dio/blob/main/back.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140" alt="Python Developer Image 2">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/trilha-python-dio/blob/main/sql.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/sql.png" width="140" alt="Python Developer Image 2">
         </td>
       </tr>
     </table>
