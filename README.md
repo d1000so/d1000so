@@ -19,10 +19,10 @@
         <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
       </td>
       <td>
-          <img src="https://img.shields.io/static/v1?message=C-CPP&logo=cplusplus&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
-        </td>
-      <td>
-          <img src="https://img.shields.io/static/v1?message=JAVA&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
+          <img src="https://img.shields.io/static/v1?message=C  C%2b%2b&logo=cplusplus&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
+	  </td>
+      	<td>
+			<img src="https://img.shields.io/static/v1?message=Java vv&logo=c&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
         </td>
         <td>
           <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
@@ -46,7 +46,7 @@
           <img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140">
         </td>
         <td align="center">
-          <img src="https://badgen.net/badge/icon/java?icon=java&label" width="140">
+          <img src="https://github.com/d1000so/d1000so/blob/main/java.png" width="140">
         </td>
         <td align="center">
           <img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140">
