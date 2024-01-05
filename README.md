@@ -72,8 +72,8 @@
 <h3 align="left">GitHub Stats</h3>
 <a href="https://github.com/d1000so/github-readme-stat">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&theme=dark">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=default">
 </picture>
 </a>
 
