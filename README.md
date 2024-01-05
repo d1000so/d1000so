@@ -40,19 +40,19 @@
     <table>
       <tr>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/python.png" width="140" alt="Python Developer Image 1">
+          <img src="https://github.com/d1000so/d1000so/blob/main/python.png" width="140">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/c.png" width="140">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/java.png" width="140" alt="Python Developer Image 2">
+          <img src="https://badgen.net/badge/icon/java?icon=java&label" width="140">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140">
         </td>
         <td align="center">
-          <img src="https://github.com/d1000so/d1000so/blob/main/sql.png" width="140" alt="Python Developer Image 2">
+          <img src="https://github.com/d1000so/d1000so/blob/main/sql.png" width="140">
         </td>
       </tr>
     </table>
