@@ -70,13 +70,12 @@
 <br>
 
 <h3 align="left">GitHub Stats</h3>
-<a href="https://github.com/d1000so/github-readme-stat">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=dark">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=default">
+  <img alt="Shows d1000so's GitHub Top Language." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=default">
 </picture>
-</a>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&border_color=444444&bg_color=add8e6)
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=444444&icon_color=30AADC&bg_color=add8e6)
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark"&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&>
+  <img alt="Shows d1000's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark"&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&>
+</picture>
