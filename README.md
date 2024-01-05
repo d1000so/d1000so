@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/static/v1?message=C  C%2b%2b&logo=cplusplus&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
 	  </td>
       	<td>
-			<img src="https://img.shields.io/static/v1?message=Java vv&logo=c&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
+			<img src="https://github.com/d1000so/d1000so/blob/main/javinho.png" width=140>
         </td>
         <td>
           <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
