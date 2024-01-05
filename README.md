@@ -19,29 +19,19 @@
         <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
       </td>
       <td>
-          <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=F7DF1E&logoColor=black&label=%20&style=plastic" width="140">
+          <img src="https://img.shields.io/static/v1?message=C-CPP&logo=cplusplus&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
         </td>
       <td>
-          <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic" width="140">
+          <img src="https://img.shields.io/static/v1?message=JAVA&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
         </td>
         <td>
-          <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic" width="140">
+          <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
         </td>
         <td>
-          <img src="https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic" width="140">
+          <img src="https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" width="140">
         </td>
       </tr>
     </table>
-
-
-
-![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=yellow&label=%20&style=plastic)
-![Java](https://img.shields.io/static/v1?message=JAVA&logo=openJDK&labelColor=5c5c5c&color=1182c3&logoColor=orange&label=%20&style=plastic)
-![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=1182c3&logoColor=red&label=%20&style=plastic)
-![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![Postgre](https://img.shields.io/static/v1?message=PostegreSQL&logo=postgresql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-
 </details>
 <details open>
   <summary>
@@ -68,7 +58,6 @@
     </table>
 </details>
 <br>
-
 <h3 align="left">GitHub Stats</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=dark">
