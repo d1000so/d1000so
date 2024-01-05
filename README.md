@@ -76,6 +76,6 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark"&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&>
-  <img alt="Shows d1000's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark"&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark">
+  <img alt="Shows d1000's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=default">
 </picture>
