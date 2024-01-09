@@ -35,7 +35,7 @@
 </details>
 <details open>
   <summary>
-    <h3 align="left">DIO's Courses</h3>
+    <h3 align="left">Courses</h3>
   </summary>
     <table>
       <tr>
