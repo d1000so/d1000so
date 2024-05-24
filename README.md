@@ -74,7 +74,7 @@
   <img alt="Shows d1000so's GitHub Top Language." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d1000so&layout=compact&theme=default">
 </picture>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark">
-  <img alt="Shows d1000's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=default">
-</picture>
+<!-- <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=dark">
+<img alt="Shows d1000's GitHub Stats." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=d1000so&layout=compact&theme=default">
+</picture> -->
