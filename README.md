@@ -2,7 +2,9 @@
 <h1>
 	<span>Edmilson Braga</span>
 </h1>
-	<p align="justify">I have always been fascinated by technology and am currently studying Systems Analysis and Development. My journey into programming began with Arduino, but Python 		was my first language of choice. I have a particular interest in IoT, home automation, and gaming. I'm a DIY enthusiast and spend my free time on fun projects like building my own 		drone or creating a 3D print from scratch. I'm always ready to take on new challenges.
+	<p align="justify">Sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Meu primeiro contato com programação foi através do Arduino, mas foi no Python que realmente me aprofundei. Tenho grande interesse em Internet das Coisas (IoT), automação, games e na cultura maker, áreas onde inovação e criatividade se encontram.
+
+Estou sempre em busca de novos desafios, explorando e aprendendo tecnologias que tornem os sistemas mais eficientes e inteligentes. Para mim, a tecnologia não é apenas uma ferramenta, mas o melhor meio de transformar ficção em realidade.
   </p>
 <h3 align="left">Connect with me</h3>
   <a href="https://www.linkedin.com/in/edmilson-braga-9b19aa255/" target="_blank">
