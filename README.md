@@ -58,7 +58,7 @@ Estou sempre em busca de novos desafios, explorando e aprendendo tecnologias que
         </td>
         <td align="center">
 					<a href="https://www.dio.me/certificate/A8FFBA74/share">
-          	<img src="https://github.com/d1000so/d1000so/blob/main/back.png" width="140">
+          	<img src="https://github.com/d1000so/d1000so/blob/main/frontend.webp" width="140">
 					</a>
         </td>
         <td align="center">
