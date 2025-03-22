@@ -1,10 +1,10 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/d1000so/d1000so/blob/main/fundo-git.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/d1000so/d1000so/blob/main/fundo-git.png">
 <h1>
 	<span>Edmilson Braga</span>
 </h1>
-	<p align="justify">Sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Meu primeiro contato com programação foi através do Arduino, mas foi no Python que realmente me aprofundei. Tenho grande interesse em Internet das Coisas (IoT), automação, games e na cultura maker, áreas onde inovação e criatividade se encontram.
+	<p align="justify">Sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Meu primeiro contato com programação foi através do Arduino em C++, mas foi no Python que realmente me aprofundei. Atualmente, estou estudando Java e aprofundando meus conhecimentos em programação orientada a objetos, buscando compreender melhor seus padrões, boas práticas e aplicações no desenvolvimento de software.
 
-Estou sempre em busca de novos desafios, explorando e aprendendo tecnologias que tornem os sistemas mais eficientes e inteligentes. Para mim, a tecnologia não é apenas uma ferramenta, mas o melhor meio de transformar ficção em realidade.
+Tenho grande interesse em Internet das Coisas (IoT), automação, games e na cultura maker, áreas onde inovação e criatividade se encontram. Estou sempre em busca de novos desafios, explorando e aprendendo tecnologias que tornem os sistemas mais eficientes e inteligentes. Para mim, a tecnologia não é apenas uma ferramenta, mas o melhor meio de transformar ficção em realidade.
   </p>
 <h3 align="left">Connect with me</h3>
   <a href="https://www.linkedin.com/in/edmilson-braga-9b19aa255/" target="_blank">
