@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://github.com/d1000so/d1000so/blob/main/fundo-git.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/d1000so/d1000so/blob/main/fundo-git.png">
 <h1>
 	<span>Edmilson Braga</span>
 </h1>
